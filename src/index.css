@@ -13,7 +13,7 @@
     @apply text-xs sm:text-base absolute bottom-0 p-2 sm:p-5 text-white overflow-hidden z-10;
   }
   .keunggulan {
-    @apply w-40 h-40 sm:w-56 sm:h-56 lg:w-96 p-2 sm:p-5 text-sm lg:text-xl text-center flex justify-center items-center rounded-md shadow-base relative;
+    @apply w-40 h-40 sm:w-56 sm:h-56 lg:w-[20rem] p-2 sm:p-5 text-sm lg:text-xl text-center flex justify-center items-center rounded-md shadow-base relative;
   }
   .event-card {
     @apply w-64 h-72 sm:w-72 sm:h-80 lg:w-[27rem] lg:h-[30rem] rounded-lg overflow-hidden shadow-base flex-shrink-0;
